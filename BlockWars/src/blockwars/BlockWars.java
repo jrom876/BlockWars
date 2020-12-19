@@ -56,15 +56,15 @@ public class BlockWars extends Basic
     //sack.add( monty );
     //cam.drawText(player.strHealth(), b.getX(), b.getY()+1);
     // generate some random blocks:
-makeBlocks("wall", 30);
-makeBlocks("food", 20);
-makeBlocks("monster", 15);
-makeBlocks("gorgon", 3);
-//makeBlocks("player", 3);
-//makeMonster("monster", 10);
-//makeGorgon("gorgon", 5);
-//sack.add( new Block( 12, 12, "player" ) );
-//sack.add( new Block( 6, 20, "wall" ) );
+    makeBlocks("wall", 30);
+    makeBlocks("food", 20);
+    makeBlocks("monster", 15);
+    makeBlocks("gorgon", 3);
+    //makeBlocks("player", 3);
+    //makeMonster("monster", 10);
+    //makeGorgon("gorgon", 5);
+    //sack.add( new Block( 12, 12, "player" ) );
+    //sack.add( new Block( 6, 20, "wall" ) );
 
     // code to finish setting up entire window:
     //------------------------------------------------------------------
